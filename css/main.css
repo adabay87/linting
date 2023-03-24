@@ -1,0 +1,18 @@
+	/* Remove the navbar's default margin-bottom and rounded borders */
+	.navbar {
+  	margin-bottom: 0;
+  	border-radius: 0;
+	}
+
+
+	/* Set black background color, white text and some padding */
+	footer {
+  	background-color: #000;
+  	color: white;
+  	padding: 15px;
+	}
+
+	#my-container{
+  	/* create space at top due to nav */
+  	padding-top:5%;
+	}
