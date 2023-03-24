@@ -1,0 +1,12 @@
+{
+  "files": {
+    "data/test.json": [
+      {
+        "id": "dd28f624-ca7f-4b66-9599-8846a7351062",
+        "line": 1,
+        "version": 3,
+        "index": 0
+      }
+    ]
+  }
+}
